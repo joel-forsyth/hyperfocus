@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Hyperfocus",
   "version": "1.1",
-  "description": "Helps you focus by disabling any hyperlinks that are not on your whitelisted pages.",
+  "description": "Helps you focus by disabling any hyperlinks that are on your blacklisted pages.",
   "permissions": [
     "activeTab",
     "tabs",
