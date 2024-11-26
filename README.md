@@ -1,2 +1,2 @@
-# hyperfocus
-Helps you focus by disabling any hyperlinks that are on your blacklisted pages
+# hyperfocus-chrome-extension
+Helps you focus online by disabling any hyperlinks that are on your blacklisted pages
